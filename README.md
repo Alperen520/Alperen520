@@ -52,4 +52,4 @@ Full Stack Developer focused on **.NET**, **React**, **TypeScript**, and **Node.
 ### Contact
 
 GitHub: [@Alperen520](https://github.com/Alperen520)
-Email: [alperenakin2003@hotmail.com](mailto:isginalperenakin@gmail.com)
+Email: [isginalperenakin@gmail.com](mailto:isginalperenakin@gmail.com)
